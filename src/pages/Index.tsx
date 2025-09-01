@@ -83,6 +83,14 @@ const products: Product[] = [
     image: "/lovable-uploads/a1a2a3a4-a5a6-a7a8-a9a0-a1a2a3a4a5a6.jpg",
     description: "El aguacate supremo con el máximo sabor y calidad premium",
     category: "premium"
+  },
+  {
+    id: 9,
+    name: "Aguacate Aventurero",
+    price: 4.25,
+    image: "/lovable-uploads/c2c3c4c5-c6c7-c8c9-c0c1-c2c3c4c5c6c7.jpg",
+    description: "Aguacates cultivados en zonas montañosas, con sabor único y aventurero",
+    category: "especial"
   }
 ];
 
