@@ -2,6 +2,7 @@ import { useState } from "react";
 import { ProductCard } from "@/components/ProductCard";
 import { Cart } from "@/components/Cart";
 import { Header } from "@/components/Header";
+import { AvocadoQuotation } from "@/components/AvocadoQuotation";
 import { ShoppingCart } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
@@ -158,6 +159,11 @@ const Index = () => {
             ))}
           </div>
         </div>
+      </section>
+
+      {/* Cotizador Section */}
+      <section id="cotizador" className="py-16 bg-white">
+        <AvocadoQuotation />
       </section>
 
       {/* Cart Sidebar */}
