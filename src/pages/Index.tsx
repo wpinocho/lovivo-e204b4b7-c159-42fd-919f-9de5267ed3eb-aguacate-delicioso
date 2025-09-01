@@ -148,7 +148,7 @@ const Index = () => {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-green-600 to-green-700 text-white py-16">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl font-bold mb-4">🥑 Aguacates Para Todos</h1>
+          <h1 className="text-5xl font-bold mb-4">🥑 Aguacates</h1>
           <p className="text-xl mb-8">Los mejores aguacates frescos, directo a tu mesa</p>
           <div className="flex justify-center items-center gap-4">
             <Button

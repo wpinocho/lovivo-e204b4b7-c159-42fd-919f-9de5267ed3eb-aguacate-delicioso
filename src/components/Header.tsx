@@ -23,7 +23,7 @@ export const Header = () => {
             
             <div className="flex flex-col">
               <span className="text-2xl font-bold bg-gradient-to-r from-green-600 via-green-700 to-green-800 bg-clip-text text-transparent">
-                Aguacates Para Todos
+                Aguacates
               </span>
               <span className="text-xs text-green-600 font-medium tracking-wider uppercase">
                 Premium Fresh
