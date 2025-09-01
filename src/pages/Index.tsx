@@ -67,6 +67,14 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
     description: "Aguacates extra grandes, ideales para compartir",
     category: "especial"
+  },
+  {
+    id: 7,
+    name: "Aguacatón",
+    price: 5.99,
+    image: "/lovable-uploads/b3b2b3b2-b3b2-b3b2-b3b2-b3b2b3b2b3b2.png",
+    description: "El aguacate más grande y delicioso, perfecto para toda la familia",
+    category: "especial"
   }
 ];
 
