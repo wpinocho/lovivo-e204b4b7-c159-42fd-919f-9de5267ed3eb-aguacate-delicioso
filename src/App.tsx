@@ -10,6 +10,7 @@ import Index from "./pages/Index";
 import Index from "./pages/Index";
 import Index from "./pages/Index";
 import Index from "./pages/Index";
+import Index from "./pages/Index";
 
 const queryClient = new QueryClient();
 
@@ -23,6 +24,7 @@ const App = () => (
           <Route path="/" element={<Index />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
+        <Route path="/index" element={<Index />} />
         <Route path="/index" element={<Index />} />
         <Route path="/index" element={<Index />} />
         <Route path="/index" element={<Index />} />
