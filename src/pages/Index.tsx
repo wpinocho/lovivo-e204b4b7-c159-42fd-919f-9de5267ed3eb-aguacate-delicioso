@@ -75,6 +75,14 @@ const products: Product[] = [
     image: "/lovable-uploads/b3b2b3b2-b3b2-b3b2-b3b2-b3b2b3b2b3b2.png",
     description: "El aguacate más grande y delicioso, perfecto para toda la familia",
     category: "especial"
+  },
+  {
+    id: 8,
+    name: "Aguacate Máximo",
+    price: 6.99,
+    image: "/lovable-uploads/a1a2a3a4-a5a6-a7a8-a9a0-a1a2a3a4a5a6.jpg",
+    description: "El aguacate supremo con el máximo sabor y calidad premium",
+    category: "premium"
   }
 ];
 
